@@ -6,8 +6,8 @@ Web Developer and designer
 
 \- A full stack web developer - I like React - Java suck
 
-* 🖥️  See my portfolio at [omar.skyex.me](http://oamr.skyex.me)
-* ✉️  You can contact me at [omar@skyex.me](mailto:omar@skyex.me)
+* 🖥️  See my portfolio at [omar.mindix.xyz](http://oamr.skyex.me)
+* ✉️  You can contact me at [omar@mindix.xyz](mailto:omar@skyex.me)
 * 🧠  I'm learning web Game Development
 * 🤝  I'm open to collaborating on anything
 * ⚡  fuck java
