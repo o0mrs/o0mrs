@@ -5,13 +5,11 @@ Web Developer and designer
 --------------------------
 
 \- A full stack web developer - I like React - Java suck
-
-* 🖥️  See my portfolio at [omar.mindix.xyz](http://oamr.skyex.me)
-* ✉️  You can contact me at [omar@mindix.xyz](mailto:omar@skyex.me)
+* ✉️  You can contact me at [omar@mindix.xyz](mailto:omar@mindix.xyz)
 * 🧠  I'm learning web Game Development
 * 🤝  I'm open to collaborating on anything
 * ⚡  fuck java
-
+last project i worked in : https://connectly.pages.dev/
 <a href="https://www.twitter.com/o6mrs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/o6mrs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/o6mrs" target="_blank" rel="noreferrer"><img
